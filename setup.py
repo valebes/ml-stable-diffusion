@@ -22,6 +22,7 @@ setup(
         "scipy",
         "numpy==1.24",
         "pytest",
+        "setuptools",
         "scikit-learn",
         "invisible-watermark",
         "safetensors",
