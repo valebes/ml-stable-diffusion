@@ -9,4 +9,3 @@ pytest
 invisible-watermark
 safetensors
 matplotlib
-setuptools
